@@ -30,6 +30,7 @@ Usage - formats:
 
 import argparse
 import csv
+import random
 import os
 import platform
 import sys
